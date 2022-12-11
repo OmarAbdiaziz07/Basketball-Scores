@@ -1,6 +1,6 @@
 # Resto
 
-A simple restaurant menu website developed HTML & CSS 
+A simple Basketball  website developed HTML & CSS 
 
 ## Installation
 
