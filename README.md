@@ -1,4 +1,4 @@
-# Resto
+# Basketball
 
 A simple Basketball  website developed HTML & CSS 
 
